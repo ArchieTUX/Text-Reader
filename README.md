@@ -19,7 +19,8 @@ Before you can run this app locally, make sure you have Python installed on your
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   
+   git clone https://github.com/ArchieTUX/Text-Reader
+   cd Text-Reader
    
    ```
 

@@ -79,7 +79,7 @@ Feel free to open issues or submit pull requests if you'd like to contribute to 
 ---
 
 ## License:
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [Apache License](LICENSE).
 
 ---
 
